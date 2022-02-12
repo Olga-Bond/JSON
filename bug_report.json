@@ -1,1 +1,8 @@
-
+{   
+      "Summary":"error_500",
+      "Project":"Yandex_ru",
+      "Component":"Email_registration_page",
+      "Version":"22_1_4_627_beta",
+      "Severity":"Blocker",
+      "Priority":"High"
+}
