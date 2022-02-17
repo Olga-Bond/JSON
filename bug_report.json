@@ -8,5 +8,6 @@
       "Steps_to_Reproduce":"Steps",
       "Actual_Result":"Page_lock",
       "Expected_Result":"Opening_a_page",
-      "Additional_Information":"Other"
+      "Additional_Information":"Other",
+      "Attachments":"Other"
 }
