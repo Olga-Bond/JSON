@@ -4,7 +4,7 @@
       "Component":"Email_registration_page",
       "Version":"22_1_4_627_beta",
       "Severity":"Blocker",
-      "Priority":"High"
+      "Priority":"High",
       "Steps_to_Reproduce":"Steps",
       "Actual_Result":"Page_lock",
       "Expected_Result":"Opening_a_page",
